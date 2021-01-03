@@ -1,0 +1,32 @@
+
+header{
+    font-size: 20px;
+    text-align: center;
+}
+
+.finnpose img{
+    display: block;
+    max-width: 100%;
+    margin: auto auto;
+}
+
+.finnstats{
+    text-align: center;
+}
+ul li{
+    font-size: 20px;
+    line-height: 3em;
+    list-style-type: none;
+}
+.deez{
+    display: block;
+    max-width: 100%;
+    margin: auto auto;
+}
+.white {
+    background-color: black;
+    color: white;
+}
+.brown {
+    color: brown;
+}
