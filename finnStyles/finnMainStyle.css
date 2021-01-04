@@ -5,9 +5,9 @@ header{
 }
 
 .finnpose img{
-    display: block;
+    float: left;
     max-width: 100%;
-    margin: auto auto;
+    margin: auto;
 }
 
 .finnstats{
